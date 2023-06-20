@@ -2,7 +2,7 @@
 	"name": "work-test",
 	"version": "0.1.0",
 	"private": true,
-	"author": "Kumpan",
+	"author": "",
 	"scripts": {
 		"start": "react-scripts start",
 		"build": "react-scripts build",
