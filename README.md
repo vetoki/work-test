@@ -1,7 +1,5 @@
 # Work Test
 
-Under construction
-
 ## Introduction
 
 The purpose of this repo is to provide a simple way to test the skills and knowledge of a potential employee.
