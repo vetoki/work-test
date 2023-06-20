@@ -1,4 +1,4 @@
-# Kumpan Work Test
+# Work Test
 
 Under construction
 
