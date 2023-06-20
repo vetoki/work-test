@@ -4,7 +4,7 @@ Under construction
 
 ## Introduction
 
-The purpose of this repo is to provide a simple way to test the skills and knowledge of a potential Kumpan employee.
+The purpose of this repo is to provide a simple way to test the skills and knowledge of a potential employee.
 
 It has been setup using create-react-app with typescript and redux-toolkit as a base.
 
@@ -52,7 +52,3 @@ Documentation for the API that is used to fetch data
 Documentation for the Redux Toolkit
 
 > https://redux-toolkit.js.org/usage/usage-guide
-
-## Questions and feedback
-
-If you have any questions about the test or the process, or any feedback about it, please contact Kumpan at tobias@kumpan.se
